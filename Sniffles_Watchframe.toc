@@ -1,0 +1,8 @@
+## Interface: 40000
+## Title: Sniffles Watchframe
+## Notes: Take this Watchframe!1
+## Author: Sniffles
+## Version: 1
+## RequiredDeps: Sniffles
+
+core.lua
